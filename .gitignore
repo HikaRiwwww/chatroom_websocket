@@ -5,7 +5,6 @@ secret.py
 database_secret.conf
 gua_profile.out
 gua_profile.pstat
-*.md
 *.sh
 gua_profile.py
 misc
